@@ -1,0 +1,41 @@
+perl get_range_med_diff_051911.pl 2489-2489_BA_med_diff_bioreps_med_stats.dat
+perl get_range_med_diff_051911.pl 2489-2489_BA_med_diff_all_lanes_med_stats.dat
+perl get_range_med_diff_051911.pl 2489-alone-2489-2489-B_med_diff_bioreps_med_stats.dat
+perl get_range_med_diff_051911.pl 2489-alone-2489-2489-B_med_diff_all_lanes_med_stats.dat
+perl get_range_med_diff_051911.pl 2489-alone-2489-2489-A_med_diff_bioreps_med_stats.dat
+perl get_range_med_diff_051911.pl 2489-alone-2489-2489-A_med_diff_all_lanes_med_stats.dat
+
+perl get_range_med_diff_051911.pl 2489-D115_BA_med_diff_bioreps_med_stats.dat
+perl get_range_med_diff_051911.pl 2489-D115_BA_med_diff_all_lanes_med_stats.dat
+perl get_range_med_diff_051911.pl 2489-alone-2489-D115-B_med_diff_bioreps_med_stats.dat
+perl get_range_med_diff_051911.pl 2489-alone-2489-D115-B_med_diff_all_lanes_med_stats.dat
+perl get_range_med_diff_051911.pl 2489-alone-2489-D115-A_med_diff_bioreps_med_stats.dat
+perl get_range_med_diff_051911.pl 2489-alone-2489-D115-A_med_diff_all_lanes_med_stats.dat
+
+perl get_range_med_diff_051911.pl 2489-D107_BA_med_diff_bioreps_med_stats.dat
+perl get_range_med_diff_051911.pl 2489-D107_BA_med_diff_all_lanes_med_stats.dat
+perl get_range_med_diff_051911.pl 2489-alone-2489-D107-B_med_diff_bioreps_med_stats.dat
+perl get_range_med_diff_051911.pl 2489-alone-2489-D107-B_med_diff_all_lanes_med_stats.dat
+perl get_range_med_diff_051911.pl 2489-alone-2489-D107-A_med_diff_bioreps_med_stats.dat
+perl get_range_med_diff_051911.pl 2489-alone-2489-D107-A_med_diff_all_lanes_med_stats.dat
+
+perl get_range_med_diff_051911.pl 2489-8579_BA_med_diff_bioreps_med_stats.dat
+perl get_range_med_diff_051911.pl 2489-8579_BA_med_diff_all_lanes_med_stats.dat
+perl get_range_med_diff_051911.pl 2489-alone-2489-8579-B_med_diff_bioreps_med_stats.dat
+perl get_range_med_diff_051911.pl 2489-alone-2489-8579-B_med_diff_all_lanes_med_stats.dat
+perl get_range_med_diff_051911.pl 2489-alone-2489-8579-A_med_diff_bioreps_med_stats.dat
+perl get_range_med_diff_051911.pl 2489-alone-2489-8579-A_med_diff_all_lanes_med_stats.dat
+
+perl get_range_med_diff_051911.pl 2489-PcWy_BA_med_diff_bioreps_med_stats.dat
+perl get_range_med_diff_051911.pl 2489-PcWy_BA_med_diff_all_lanes_med_stats.dat
+perl get_range_med_diff_051911.pl 2489-alone-2489-PcWy-B_med_diff_bioreps_med_stats.dat
+perl get_range_med_diff_051911.pl 2489-alone-2489-PcWy-B_med_diff_all_lanes_med_stats.dat
+perl get_range_med_diff_051911.pl 2489-alone-2489-PcWy-A_med_diff_bioreps_med_stats.dat
+perl get_range_med_diff_051911.pl 2489-alone-2489-PcWy-A_med_diff_all_lanes_med_stats.dat
+
+perl get_range_med_diff_051911.pl 2489-PcWo_BA_med_diff_bioreps_med_stats.dat
+perl get_range_med_diff_051911.pl 2489-PcWo_BA_med_diff_all_lanes_med_stats.dat
+perl get_range_med_diff_051911.pl 2489-alone-2489-PcWo-B_med_diff_bioreps_med_stats.dat
+perl get_range_med_diff_051911.pl 2489-alone-2489-PcWo-B_med_diff_all_lanes_med_stats.dat
+perl get_range_med_diff_051911.pl 2489-alone-2489-PcWo-A_med_diff_bioreps_med_stats.dat
+perl get_range_med_diff_051911.pl 2489-alone-2489-PcWo-A_med_diff_all_lanes_med_stats.dat

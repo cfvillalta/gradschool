@@ -1,0 +1,12 @@
+perl get_NCU_funcat_enrich.pl FUNCAT_table_20110426.dat D107_trends_funcat.dat allDE_sig0.05_1.5f_trends_D107.dat>D107_funcat_enrich_trends_20111006.ncu
+
+perl get_NCU_funcat_enrich.pl FUNCAT_table_20110426.dat D115_trends_funcat.dat allDE_sig0.05_1.5f_trends_D115.dat>D115_funcat_enrich_trends_20111006.ncu
+
+perl get_NCU_funcat_enrich.pl FUNCAT_table_20110426.dat 2489_trends_funcat.dat allDE_sig0.05_1.5f_trends_2489.dat>2489_funcat_enrich_trends_20111006.ncu
+
+perl get_NCU_funcat_enrich.pl FUNCAT_table_20110426.dat 8579_trends_funcat.dat allDE_sig0.05_1.5f_trends_8579.dat>8579_funcat_enrich_trends_20111006.ncu
+
+perl get_NCU_funcat_enrich.pl FUNCAT_table_20110426.dat PcWy_trends_funcat.dat allDE_sig0.05_1.5f_trends_PcWy.dat>PcWy_funcat_enrich_trends_20111006.ncu
+
+perl get_NCU_funcat_enrich.pl FUNCAT_table_20110426.dat PcWo_trends_funcat.dat allDE_sig0.05_1.5f_trends_PcWo.dat>PcWo_funcat_enrich_trends_20111006.ncu
+
